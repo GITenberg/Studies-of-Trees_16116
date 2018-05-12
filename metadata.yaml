@@ -1,0 +1,30 @@
+_repo: Studies-of-Trees_16116
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Levison, Jacob Joshua
+    birthdate: 1881
+    gutenberg_agent_id: '6492'
+    url: http://www.gutenberg.org/2009/agents/6492
+description: ''
+gutenberg_bookshelf:
+- Forestry
+- Botany
+- Natural History
+gutenberg_issued: '2005-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16116'
+  lccn: '14014493'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trees'
+- !lcc 'QK'
+title: Studies of Trees
+url: http://www.gutenberg.org/ebooks/16116
